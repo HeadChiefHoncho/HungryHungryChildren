@@ -11,7 +11,7 @@ You can view our final game trailer here: https://www.youtube.com/watch?v=eqVTds
 
 ![alt text](https://media.giphy.com/media/1jl9FqhDSwoLHsecAH/giphy.gif)
 
-As of now, Hungry Hungry Children is only playable on Windows. To play, download the repository and open the executable in the root directory, titled "Team TBD Hungry Hungry Children.exe"!
+As of now, Hungry Hungry Children is only playable on Windows. To play, download the repository and open the executable in the root directory, titled "Hungry Hungry Children.exe"! You can play the game with a keyboard or an xbox 360 controller, as of now other controllers are not supported.
 
 
 # Things We Didn't Get To
