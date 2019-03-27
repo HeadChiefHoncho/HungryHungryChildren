@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 59296cb7c61a6a14f993255e280fb2d8
+timeCreated: 1525211405
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jakobs Handwriting
+  fontNames:
+  - Jakobs Handwriting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
